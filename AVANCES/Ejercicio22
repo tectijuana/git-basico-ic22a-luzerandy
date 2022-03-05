@@ -1,0 +1,9 @@
+num1=int(input("Introduza el primer número entero"))
+print ("")
+num2=int(input("Introduza el segundo número entero"))
+
+suma=int(num1+num2)
+print ("")
+print ("Se ingreso el número: ",num1)
+print ("Se ingreso el número: ",num2)
+print ("El resultado de la suma es: ",suma)
