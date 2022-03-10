@@ -1,0 +1,8 @@
+print("Conversión de libras inglesas a dolares")
+print("")
+print("2.80 dolares = 1 libra inglesa")
+print("")
+libras=float (input("Ingrese la cantidad de libras que desea convertir: "))
+dolares=2.80*libras
+print("")
+print("Equivalen a: ", dolares, "dolares")
