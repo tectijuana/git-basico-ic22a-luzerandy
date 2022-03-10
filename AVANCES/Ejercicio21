@@ -1,0 +1,11 @@
+num1=int(input("Introduza el primer número entero"))
+print ("")
+num2=int(input("Introduza el segundo número entero"))
+print ("")
+suma=int(num1+num2)
+
+if suma>=0:
+    print("El resultado es positivo: ", suma)
+else:
+    print("El resultado es negativo: ",suma)
+print("¡Hecho!")
