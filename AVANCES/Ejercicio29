@@ -1,0 +1,9 @@
+tCambio=float (input("Ingrese el tipo de cambio del dolar:  "))
+print("")
+dolares = float(input("Ingrese la cantidad de dolares a convertir:  "))
+print("")
+pesos=dolares*tCambio
+print("")
+print("La cantidad de dolares ingresados es: ", dolares ,"dolares")
+print("")
+print("Equivalen a: ", pesos, "pesos")
