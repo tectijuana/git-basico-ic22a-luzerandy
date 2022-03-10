@@ -1,0 +1,17 @@
+print("Conversión a dolares")
+print("")
+libras=float (input("Ingrese la cantidad de libras que desea convertir: "))
+dolaresl=2.80*libras
+print("")
+chelines=float (input("Ingrese la cantidad de chelines que desea convertir: "))
+dolaresc=chelines * 0.0088
+print("")
+euros=float (input("Ingrese la cantidad de euros que desea convertir: "))
+dolares=euros*1.11
+print("")
+print("")
+print("Equivalen a: ", dolaresl, "dolares")
+print("")
+print("Equivalen a: ", dolaresc, "dolares")
+print("")
+print("Equivalen a: ", dolares, "dolares")
