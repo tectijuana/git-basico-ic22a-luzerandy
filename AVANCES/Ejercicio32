@@ -1,0 +1,16 @@
+num1=int(input("Introduza el número entero"))
+print ("")
+
+if num1%2==0:
+    pass
+    if num1%5==0:
+        print("El numero ingresado: ",num1, "es divisible entre 2 y 5")
+    else:
+        pass
+else:
+    pass
+    if num1%2==0:
+        print("El numero ingresado: ",num1," Solo es divisible entre 2")
+    else:
+        print("El numero ingresado: ",num1," Solo es divisible entre 5")
+print("¡Hecho!")
